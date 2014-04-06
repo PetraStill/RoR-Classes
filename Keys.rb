@@ -9,6 +9,6 @@ end
 # => true 
 # yes_keys(hash1)
 # => 3 
-# Можно также a.keys.select {|k| k.to_s.start_with?("yes")}.size
+# Можно также a.keys.select {|k| k.to_s.start_with?("yes")}.size ))))
 
 
